@@ -1,0 +1,14 @@
+#song-info {
+  display: flex;
+  height: 150px;
+  background-color: azure;
+  grid-area: song-info;
+}
+
+#song-info img {
+  max-height: 100%;
+}
+
+#song-info div {
+  margin-left: 50px;
+}

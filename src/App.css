@@ -1,0 +1,9 @@
+#app {
+  display: grid;
+  grid-template-rows: 70px 150px 50px 1fr;
+  grid-template-columns: 230px 1fr 230px;
+  grid-template-areas: "header header header"
+                       "song-info song-info song-info"
+                       "player player player"
+                       "left-aside main-content right-aside"
+}

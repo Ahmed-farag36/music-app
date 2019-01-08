@@ -1,0 +1,7 @@
+#player {
+  grid-area: player;
+}
+
+#player audio{
+  width: 100vw;
+}

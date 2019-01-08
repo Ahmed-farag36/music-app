@@ -1,0 +1,13 @@
+#left-aside {
+  grid-area: left-aside;
+}
+
+#genres {
+  display: flex;
+  flex-direction: column;
+}
+
+#playlists {
+  display: flex;
+  flex-direction: column;
+}

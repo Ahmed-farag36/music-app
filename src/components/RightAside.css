@@ -1,0 +1,26 @@
+#right-aside {
+  grid-area: right-aside;
+}
+
+#activity {
+  display: flex;
+  flex-direction: column;
+}
+
+#activity a {
+  display: block;
+}
+
+#top-plays {
+  display: flex;
+  flex-direction: column;
+}
+
+.song {
+  display: flex;
+}
+
+.song a{
+  display: block;
+  margin-left: 10px;
+}
